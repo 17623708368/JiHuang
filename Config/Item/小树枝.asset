@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f84231b43a882945bae99a51029bd80, type: 3}
+  m_Name: "\u5C0F\u6811\u679D"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: ItemTypeInfo
+      Entry: 7
+      Data: 0|ItemMaterialInfo, Assembly-CSharp
+    - Name: MaxCount
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+  Name: "\u5C0F\u6811\u679D"
+  ItemType: 2
+  MapObjectConfigID: 19
+  Description: "\u4E00\u6839\u5C0F\u6811\u679D"
+  Icon: {fileID: 21300000, guid: df7d24fb9eb6e80489a82a14ab044f34, type: 3}

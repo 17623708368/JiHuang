@@ -1,0 +1,392 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d1584137ea563d4aac91fc99f72cd05, type: 3}
+  m_Name: GameSetting
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 8039767788146889838, guid: aa93bbf2475b674419b45a5bc7a88485, type: 3}
+    - {fileID: 0}
+    - {fileID: 3949864808349845485, guid: 5a979e20ec40f7142aeb84d32be77017, type: 3}
+    - {fileID: 0}
+    - {fileID: 7642608874741679403, guid: 2751db3d674b5074395ae8c2978a3afe, type: 3}
+    - {fileID: 0}
+    - {fileID: 4260069446687021677, guid: 214d7a0a2599c8148ae8acff91be250c, type: 3}
+    - {fileID: 4320608743045522482, guid: 1283cf784bd844248929a02aca52edb9, type: 3}
+    - {fileID: 0}
+    - {fileID: 6780295014090922811, guid: d871128570c838d4b8cb632d7dca55b9, type: 3}
+    - {fileID: 279085313429594653, guid: d62587285d8ea7a41959022d6115c108, type: 3}
+    - {fileID: 2786686680103941418, guid: a0abfa3065f4de3438c617a6f4291910, type: 3}
+    - {fileID: 0}
+    - {fileID: 2786686680103941418, guid: 25e77eece3ddfcb419950615a17298fb, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: cacheDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Type, mscorlib],[System.Boolean,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.ObjectEqualityComparer`1[[System.Type, mscorlib]],
+        mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 2|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: JKFrame.StateMachine, JKFrame
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: UIElementDic
+      Entry: 7
+      Data: 3|System.Collections.Generic.Dictionary`2[[System.Type, mscorlib],[JKFrame.UIElement,
+        JKFrame]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 4|System.Collections.Generic.ObjectEqualityComparer`1[[System.Type, mscorlib]],
+        mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 5|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_BuildWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 6|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: prefab
+      Entry: 10
+      Data: 0
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: objInstance
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 7|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_MainInventoryWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 8|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: false
+    - Name: prefab
+      Entry: 10
+      Data: 2
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: objInstance
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 9|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_StorageBoxInventoryWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 10|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: prefab
+      Entry: 10
+      Data: 4
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: objInstance
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 11|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_MainInfoWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 12|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: false
+    - Name: prefab
+      Entry: 10
+      Data: 6
+    - Name: layerNum
+      Entry: 3
+      Data: 0
+    - Name: objInstance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 13|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_MapWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 14|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: prefab
+      Entry: 10
+      Data: 7
+    - Name: layerNum
+      Entry: 3
+      Data: 4
+    - Name: objInstance
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 15|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_MenuSceneMainWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 16|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: false
+    - Name: prefab
+      Entry: 10
+      Data: 9
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: objInstance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 17|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UI_NewGameWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 18|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: false
+    - Name: prefab
+      Entry: 10
+      Data: 10
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: objInstance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 19|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: JKFrame.UI_GameLoadingWindow, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 20|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: prefab
+      Entry: 10
+      Data: 11
+    - Name: layerNum
+      Entry: 3
+      Data: 4
+    - Name: objInstance
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 21|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: JKFrame.UI_LoadingWindow, JKFrame
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 22|JKFrame.UIElement, JKFrame
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: prefab
+      Entry: 10
+      Data: 13
+    - Name: layerNum
+      Entry: 3
+      Data: 4
+    - Name: objInstance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

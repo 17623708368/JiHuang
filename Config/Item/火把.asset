@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f84231b43a882945bae99a51029bd80, type: 3}
+  m_Name: "\u706B\u628A"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 306303761941671807, guid: d9deb6f3dc11f9149bdd6d5ad9fe09ac, type: 3}
+    - {fileID: 22100000, guid: d413e4b0ad956284886794c6594a1a3f, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: ItemTypeInfo
+      Entry: 7
+      Data: 0|ItemWeaponInfo, Assembly-CSharp
+    - Name: WeaponType
+      Entry: 3
+      Data: 3
+    - Name: PrefabOnPlayer
+      Entry: 10
+      Data: 0
+    - Name: PositionOnPlayer
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: -0.00043
+    - Name: 
+      Entry: 4
+      Data: -0.00034
+    - Name: 
+      Entry: 4
+      Data: 0.00235
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: RotationOnPlayer
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 40.414
+    - Name: 
+      Entry: 4
+      Data: -104.997
+    - Name: 
+      Entry: 4
+      Data: 89.739
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: PrefabOnMap
+      Entry: 6
+      Data: 
+    - Name: AnimatorController
+      Entry: 10
+      Data: 1
+    - Name: AttackValue
+      Entry: 4
+      Data: 0
+    - Name: AttackDurabilityCost
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+  Name: "\u77F3\u7A3F"
+  ItemType: 0
+  MapObjectConfigID: 32
+  Description: "\u53EF\u4EE5\u7167\u660E"
+  Icon: {fileID: 21300000, guid: 8c69cb60b1d41f94284e165c4df93ab0, type: 3}

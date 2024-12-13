@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c223e80c0e08f4f98f4095f5a3b536, type: 3}
+  m_Name: "\u5730\u56FE\u914D\u7F6E"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  mapChunkSize: 5
+  cellSize: 2
+  noiseLacunarity: 0.25
+  mapMaterial: {fileID: 2100000, guid: 9c094156f71d50840b4bed83f250a186, type: 2}
+  forestTexutre: {fileID: 2800000, guid: f8ef01ea674733a42bf8459b49ce3041, type: 3}
+  marshTextures:
+  - {fileID: 2800000, guid: c866d07f79959044b89c8b0c20c9fe46, type: 3}
+  - {fileID: 2800000, guid: d474daf193533bc49b7ee2f61d2c8c29, type: 3}
+  - {fileID: 2800000, guid: e29e9ea54b00b8645a5a3941befbdb48, type: 3}
+  - {fileID: 2800000, guid: 976a72c512db7a049bc575957f6e390c, type: 3}
+  - {fileID: 2800000, guid: ece6734c1244de74ea14fb4252a7fecc, type: 3}
+  - {fileID: 2800000, guid: e03afa13bcacaf545a692cdb0ee779d3, type: 3}
+  - {fileID: 2800000, guid: e18f129cfc95576419a576eaf3e175c0, type: 3}
+  - {fileID: 2800000, guid: 78b41370e2dfc2943a78dd01dac4e617, type: 3}
+  - {fileID: 2800000, guid: 347bbf1afd06f6e44832ef8e12d8b9a4, type: 3}
+  - {fileID: 2800000, guid: 45f0e76d72dcacb4ebea4dd916adafc1, type: 3}
+  - {fileID: 2800000, guid: b8ea83edd0175b94bb392efdce07010b, type: 3}
+  - {fileID: 2800000, guid: e4c090ae2a017c449822fafad6c12455, type: 3}
+  - {fileID: 2800000, guid: 53ba77b2ebed608489e177828b120127, type: 3}
+  - {fileID: 2800000, guid: d3dffb87dc10beb47967d6f222bb20c0, type: 3}
+  - {fileID: 2800000, guid: 1b5e50323f979744b971358d3334007d, type: 3}
+  viewDinstance: 2
+  RefreshProbability: 1
+  maxAIOnChunk: 1
+  GenerateAiMinVertexCountOnChunk: 10
